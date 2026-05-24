@@ -58,3 +58,12 @@ B.Tech CSE Student at Amity University Rajasthan | IEEE Marketing Head | Buildin
 </a>
 
 </p>
+
+## 🐍 Contribution Snake
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/veer-rohra/veer-rohra/output/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/veer-rohra/veer-rohra/output/github-contribution-grid-snake.svg" />
+  <img alt="github-snake" src="https://raw.githubusercontent.com/veer-rohra/veer-rohra/output/github-contribution-grid-snake.svg" />
+</picture>
+
